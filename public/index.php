@@ -1,6 +1,4 @@
 <?php
-phpinfo();
-die();
 require('../vendor/autoload.php');
 
 $app = new Silex\Application();
